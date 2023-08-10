@@ -17,7 +17,7 @@ My skill set spans across various web tech stacks, allowing me to offer a divers
 ✔ **DevOps:** CI/CD, Docker, Kubernetes, Terraform, Serverless framework<br />
 ✔ **Payment:** Stripe, Plaid integration.<br />
 
- 💪**Main Responsibilities**
+ 💪 **Main Responsibilities:**
 
 ✔ 7+ years of overall software development experience.<br />
 ✔ Strong experience in full stack development.<br />
